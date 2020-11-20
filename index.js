@@ -1,6 +1,6 @@
 import './styles.css';
-import templateCard from "../template/templateCauntry.hbs";
-import templateAllCauntry from "../template/all-countries.hbs";
+import templateCard from "./template/templateCauntry.hbs";
+import templateAllCauntry from "./template/all-countries.hbs";
 import API from './api-service';
 import '@pnotify/core/dist/PNotify.css';
 import '@pnotify/core/dist/BrightTheme.css';
